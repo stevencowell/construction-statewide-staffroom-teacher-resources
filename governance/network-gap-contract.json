@@ -1,0 +1,35 @@
+{
+  "contract": "Construction teacher navigator network-alignment gap contract",
+  "date": "2026-09-01",
+  "baseline_candidate_digest": "28620a429058d5c7923a9ed799a6c09cb1fecd6cf440f78b8144182b4b0182b7",
+  "benchmark": {
+    "name": "Main Page Subject Program Library",
+    "local_path": "C:/Users/scowell1/Documents/Codex/2026-09-01/ca/work/Main-Page/subject-program-library",
+    "parent_commit": "798377c",
+    "use": "Category-banner, pale-card-tint, accent-stripe and responsive hierarchy patterns only"
+  },
+  "audience_boundary": "Construction teachers only",
+  "in_scope": [
+    "Group all Home and Program task cards under four labelled task-stage banners",
+    "Apply visible teaching-purpose labels and restrained colour accents to every resource card",
+    "Group the direct-file library into seven broad teaching-purpose banners with existing purpose subgroups retained",
+    "Apply the same semantic card treatment to Home shortcuts, wayfinding cards and source-boundary cards",
+    "Preserve desktop, mobile-menu and exact-390 responsive behaviour"
+  ],
+  "out_of_scope": [
+    "Course, unit, assessment or RTO fact changes",
+    "Student quizzes, learner evidence or progress features",
+    "Copying benchmark subject facts or assets",
+    "Changes to the original Construction supplementary site",
+    "Commit, push, deployment or public hosting"
+  ],
+  "acceptance_requirements": {
+    "all_425_resource_cards_have_visible_category_labels": true,
+    "colour_is_not_the_only_category_cue": true,
+    "status_badges_remain_distinct": true,
+    "nine_task_guides_and_sixty_delivery_blocks_preserved": true,
+    "exact_390_horizontal_overflow": false,
+    "all_direct_file_links_preserved": true
+  },
+  "status": "IMPLEMENTED"
+}

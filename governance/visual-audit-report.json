@@ -1,0 +1,43 @@
+{
+  "audit": "Independent visual, responsive and accessibility acceptance audit",
+  "date": "2026-09-01",
+  "candidate_digest": "7d258f3840875ddd700c3f0b4353e479c3ab09208860e8a4d17421141f36bc3b",
+  "decision": "PASS",
+  "remaining_findings": [],
+  "program_review": {
+    "format": "A4 landscape",
+    "pages": 15,
+    "all_pages_inspected_at_full_detail": true,
+    "clipping_or_overlap": false,
+    "blank_or_spill_pages": false,
+    "orphan_headings": false,
+    "table_legibility": "PASS",
+    "hierarchy_and_whitespace": "PASS"
+  },
+  "site_review": {
+    "desktop_1280_render": "PASS",
+    "exact_390_render": "PASS",
+    "exact_390_horizontal_overflow": false,
+    "mobile_menu": "PASS",
+    "focus_and_contrast": "PASS",
+    "responsive_tables": "PASS",
+    "labelled_filters": "PASS",
+    "exact_file_action_primary": "PASS",
+    "folder_fallback_secondary": "PASS",
+    "direct_link_minimum_target_px": 44,
+    "new_tab_accessible_announcement": "PASS",
+    "category_banners_and_pale_card_tints": "PASS",
+    "visible_text_label_for_every_coloured_resource_card": "PASS",
+    "four_task_groups_consistent_across_home_and_program": "PASS",
+    "seven_library_supercategories_with_fifteen_purpose_subgroups": "PASS",
+    "source_boundary_grouped_into_two_labelled_sections": "PASS",
+    "status_colours_remain_distinct_from_teaching_categories": "PASS",
+    "exact_390_long_filename_and_label_wrapping": "PASS"
+  },
+  "visual_source_map": {
+    "target": 0,
+    "exception_accepted": true,
+    "reason": "This is a teacher planning and authenticated-resource navigator. Controlled imagery remains in SharePoint; decorative or copied images would add no necessary planning function and could exceed source authority."
+  },
+  "status": "PASS"
+}

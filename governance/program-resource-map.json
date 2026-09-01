@@ -1,0 +1,1577 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-09-01",
+  "authority": "VET statewide staffroom > Construction > Shared > Resource Library",
+  "tasks": {
+    "task-1": {
+      "taskOrder": "1",
+      "title": "White Card",
+      "fileCount": 37,
+      "essentials": [
+        {
+          "id": "resource-008",
+          "fileName": "CPCWHS1001-Teacher Manual.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%201%20White%20Card/1.%20TotalVET%20Training%20Resources/CPCWHS1001-Teacher%20Manual.docx?web=1",
+          "purpose": "Teacher manuals and references",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-006",
+          "fileName": "CPCWHS1001-Learner Manual.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%201%20White%20Card/1.%20TotalVET%20Training%20Resources/CPCWHS1001-Learner%20Manual.docx?web=1",
+          "purpose": "Teacher manuals and references",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-002",
+          "fileName": "CPCWHS1001-PPT-Element-01-F-v1.0.pptx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%201%20White%20Card/1.%20TotalVET%20Training%20Resources/CPCCWHS1001-presentations/CPCWHS1001-PPT-Element-01-F-v1.0.pptx?web=1",
+          "purpose": "Lesson presentations",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-007",
+          "fileName": "CPCWHS1001-Learner Workbook.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%201%20White%20Card/1.%20TotalVET%20Training%20Resources/CPCWHS1001-Learner%20Workbook.docx?web=1",
+          "purpose": "Student handouts and workbooks",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-009",
+          "fileName": "1. White Card Flow Chart 1 RTO.pdf",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%201%20White%20Card/2.%20Whitecard%20course%20delivery%20resources/1.%20White%20Card%20Flow%20Chart%201%20RTO.pdf?web=1",
+          "purpose": "Other Staffroom resources",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-010",
+          "fileName": "2. SASS supported - School Delivered White Card Checklist.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%201%20White%20Card/2.%20Whitecard%20course%20delivery%20resources/2.%20SASS%20supported%20-%20School%20Delivered%20White%20Card%20Checklist.docx?web=1",
+          "purpose": "Other Staffroom resources",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        }
+      ],
+      "blocks": [
+        [
+          {
+            "id": "resource-009",
+            "fileName": "1. White Card Flow Chart 1 RTO.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%201%20White%20Card/2.%20Whitecard%20course%20delivery%20resources/1.%20White%20Card%20Flow%20Chart%201%20RTO.pdf?web=1",
+            "purpose": "Other Staffroom resources",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-010",
+            "fileName": "2. SASS supported - School Delivered White Card Checklist.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%201%20White%20Card/2.%20Whitecard%20course%20delivery%20resources/2.%20SASS%20supported%20-%20School%20Delivered%20White%20Card%20Checklist.docx?web=1",
+            "purpose": "Other Staffroom resources",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-014",
+            "fileName": "6. Student Guide.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%201%20White%20Card/2.%20Whitecard%20course%20delivery%20resources/6.%20Student%20Guide.docx?web=1",
+            "purpose": "Student handouts and workbooks",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-011",
+            "fileName": "3. 8410.lln.training.url",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%201%20White%20Card/2.%20Whitecard%20course%20delivery%20resources/3.%208410.lln.training.url?web=1",
+            "purpose": "Other Staffroom resources",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-008",
+            "fileName": "CPCWHS1001-Teacher Manual.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%201%20White%20Card/1.%20TotalVET%20Training%20Resources/CPCWHS1001-Teacher%20Manual.docx?web=1",
+            "purpose": "Teacher manuals and references",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-006",
+            "fileName": "CPCWHS1001-Learner Manual.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%201%20White%20Card/1.%20TotalVET%20Training%20Resources/CPCWHS1001-Learner%20Manual.docx?web=1",
+            "purpose": "Teacher manuals and references",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-018",
+            "fileName": "SW08745 SafeWork NSW Assessment Mapping Matrix - CPCWHS1001 - V2.2 100323.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%201%20White%20Card/2.%20Whitecard%20course%20delivery%20resources/SW08745%20SafeWork%20NSW%20Assessment%20Mapping%20Matrix%20-%20CPCWHS1001%20-%20V2.2%20100323.pdf?web=1",
+            "purpose": "Controlled assessment orientation",
+            "currencyStatus": "RTO-controlled / staff-only",
+            "controlled": true
+          }
+        ]
+      ]
+    },
+    "task-2": {
+      "taskOrder": "2",
+      "title": "Tools, Equipment and Materials",
+      "fileCount": 62,
+      "essentials": [
+        {
+          "id": "resource-049",
+          "fileName": "VET Teaching Program Task Tools and Equipment Draft V2.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%202%20Tools%20and%20Equipment/2.%20Program/VET%20Teaching%20Program%20Task%20Tools%20and%20Equipment%20Draft%20V2.docx?web=1",
+          "purpose": "Program and delivery planning",
+          "currencyStatus": "Draft — Teacher/RTO to confirm",
+          "controlled": false
+        },
+        {
+          "id": "resource-051",
+          "fileName": "Task 2 - Tools and Equipment - Teacher Guide.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%202%20Tools%20and%20Equipment/3.%20DoE%20TEACHER%20%26%20LEARNER%20GUIDE/Task%202%20-%20Tools%20and%20Equipment%20-%20Teacher%20Guide.docx?web=1",
+          "purpose": "Practical activities and projects",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-036",
+          "fileName": "CPCCCA2002 Learner Guide.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%202%20Tools%20and%20Equipment/1.%20TotalVET%20Training%20Resources/CPCCCA2002%20Use%20carpentry%20tools%20and%20equipment/CPCCCA2002%20Learner%20Guide.docx?web=1",
+          "purpose": "Practical activities and projects",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-037",
+          "fileName": "CPCCCA2002 Presentation.pptx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%202%20Tools%20and%20Equipment/1.%20TotalVET%20Training%20Resources/CPCCCA2002%20Use%20carpentry%20tools%20and%20equipment/CPCCCA2002%20Presentation.pptx?web=1",
+          "purpose": "Lesson presentations",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-066",
+          "fileName": "Timber equipment PPE posters.pdf",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%202%20Tools%20and%20Equipment/Additional%20resources/CPCCCA2011%20Handle%20carpentry%20materials/Timber%20equipment%20PPE%20posters.pdf?web=1",
+          "purpose": "WHS and safe work",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-041",
+          "fileName": "CPCCCA2011-PPT-Element 01-F-v1.0.pptx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%202%20Tools%20and%20Equipment/1.%20TotalVET%20Training%20Resources/CPCCCA2011%20Handle%20carpentry%20materials/presentations/CPCCCA2011-PPT-Element%2001-F-v1.0.pptx?web=1",
+          "purpose": "Lesson presentations",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        }
+      ],
+      "blocks": [
+        [
+          {
+            "id": "resource-037",
+            "fileName": "CPCCCA2002 Presentation.pptx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%202%20Tools%20and%20Equipment/1.%20TotalVET%20Training%20Resources/CPCCCA2002%20Use%20carpentry%20tools%20and%20equipment/CPCCCA2002%20Presentation.pptx?web=1",
+            "purpose": "Lesson presentations",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-070",
+            "fileName": "Power Tool 1.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%202%20Tools%20and%20Equipment/Additional%20resources/Tools%20and%20Safe%20Use/Power%20Tool%201.pdf?web=1",
+            "purpose": "WHS and safe work",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-066",
+            "fileName": "Timber equipment PPE posters.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%202%20Tools%20and%20Equipment/Additional%20resources/CPCCCA2011%20Handle%20carpentry%20materials/Timber%20equipment%20PPE%20posters.pdf?web=1",
+            "purpose": "WHS and safe work",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-088",
+            "fileName": "worksheet index.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%202%20Tools%20and%20Equipment/Additional%20resources/Tools%20and%20Safe%20Use/worksheet%20index.docx?web=1",
+            "purpose": "WHS and safe work",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-048",
+            "fileName": "CPCCCM2005 Presentation.pptx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%202%20Tools%20and%20Equipment/1.%20TotalVET%20Training%20Resources/CPCCCM2005%20Use%20construction%20tools%20and%20equipment/CPCCCM2005%20Presentation.pptx?web=1",
+            "purpose": "Lesson presentations",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-071",
+            "fileName": "Power Tool 2.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%202%20Tools%20and%20Equipment/Additional%20resources/Tools%20and%20Safe%20Use/Power%20Tool%202.pdf?web=1",
+            "purpose": "WHS and safe work",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-069",
+            "fileName": "a_using a circ saw.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%202%20Tools%20and%20Equipment/Additional%20resources/Tools%20and%20Safe%20Use/a_using%20a%20circ%20saw.pdf?web=1",
+            "purpose": "WHS and safe work",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-072",
+            "fileName": "Power Tool 3.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%202%20Tools%20and%20Equipment/Additional%20resources/Tools%20and%20Safe%20Use/Power%20Tool%203.pdf?web=1",
+            "purpose": "WHS and safe work",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-036",
+            "fileName": "CPCCCA2002 Learner Guide.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%202%20Tools%20and%20Equipment/1.%20TotalVET%20Training%20Resources/CPCCCA2002%20Use%20carpentry%20tools%20and%20equipment/CPCCCA2002%20Learner%20Guide.docx?web=1",
+            "purpose": "Practical activities and projects",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-073",
+            "fileName": "Power Tool 4.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%202%20Tools%20and%20Equipment/Additional%20resources/Tools%20and%20Safe%20Use/Power%20Tool%204.pdf?web=1",
+            "purpose": "WHS and safe work",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-041",
+            "fileName": "CPCCCA2011-PPT-Element 01-F-v1.0.pptx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%202%20Tools%20and%20Equipment/1.%20TotalVET%20Training%20Resources/CPCCCA2011%20Handle%20carpentry%20materials/presentations/CPCCCA2011-PPT-Element%2001-F-v1.0.pptx?web=1",
+            "purpose": "Lesson presentations",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-038",
+            "fileName": "CPCCCA2011- Learner Guide.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%202%20Tools%20and%20Equipment/1.%20TotalVET%20Training%20Resources/CPCCCA2011%20Handle%20carpentry%20materials/CPCCCA2011-%20Learner%20Guide.docx?web=1",
+            "purpose": "Practical activities and projects",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-042",
+            "fileName": "CPCCCA2011-PPT-Element 02-F-v1.0.pptx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%202%20Tools%20and%20Equipment/1.%20TotalVET%20Training%20Resources/CPCCCA2011%20Handle%20carpentry%20materials/presentations/CPCCCA2011-PPT-Element%2002-F-v1.0.pptx?web=1",
+            "purpose": "Lesson presentations",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-039",
+            "fileName": "CPCCCA2011-Learning Activity Booklet - Trainer Copy.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%202%20Tools%20and%20Equipment/1.%20TotalVET%20Training%20Resources/CPCCCA2011%20Handle%20carpentry%20materials/CPCCCA2011-Learning%20Activity%20Booklet%20-%20Trainer%20Copy.docx?web=1",
+            "purpose": "Practical activities and projects",
+            "currencyStatus": "Duplicate-copy check",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-049",
+            "fileName": "VET Teaching Program Task Tools and Equipment Draft V2.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%202%20Tools%20and%20Equipment/2.%20Program/VET%20Teaching%20Program%20Task%20Tools%20and%20Equipment%20Draft%20V2.docx?web=1",
+            "purpose": "Program and delivery planning",
+            "currencyStatus": "Draft — Teacher/RTO to confirm",
+            "controlled": false
+          },
+          {
+            "id": "resource-051",
+            "fileName": "Task 2 - Tools and Equipment - Teacher Guide.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%202%20Tools%20and%20Equipment/3.%20DoE%20TEACHER%20%26%20LEARNER%20GUIDE/Task%202%20-%20Tools%20and%20Equipment%20-%20Teacher%20Guide.docx?web=1",
+            "purpose": "Practical activities and projects",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ]
+      ]
+    },
+    "task-3": {
+      "taskOrder": "3",
+      "title": "Work Safe",
+      "fileCount": 48,
+      "essentials": [
+        {
+          "id": "resource-097",
+          "fileName": "VET Teaching Program Task Work Safe Draft.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%203%20Work%20Safe/2.%20Program/VET%20Teaching%20Program%20Task%20Work%20Safe%20Draft.docx?web=1",
+          "purpose": "Program and delivery planning",
+          "currencyStatus": "Draft — Teacher/RTO to confirm",
+          "controlled": false
+        },
+        {
+          "id": "resource-096",
+          "fileName": "CPCCWHS2001-Teacher Manual.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%203%20Work%20Safe/1.%20TotalVET%20Training%20Resources/CPCWHS2001%20delivery%20resources/CPCCWHS2001-Teacher%20Manual.docx?web=1",
+          "purpose": "WHS and safe work",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-094",
+          "fileName": "CPCCWHS2001-Learner Manual.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%203%20Work%20Safe/1.%20TotalVET%20Training%20Resources/CPCWHS2001%20delivery%20resources/CPCCWHS2001-Learner%20Manual.docx?web=1",
+          "purpose": "WHS and safe work",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-089",
+          "fileName": "CPCCWHS2001-PPT-Element 01-F-v1.1.pptx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%203%20Work%20Safe/1.%20TotalVET%20Training%20Resources/CPCWHS2001%20delivery%20resources/CPCCWHS2001%20-Presentations/CPCCWHS2001-PPT-Element%2001-F-v1.1.pptx?web=1",
+          "purpose": "Lesson presentations",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-095",
+          "fileName": "CPCCWHS2001-Learner Workbook.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%203%20Work%20Safe/1.%20TotalVET%20Training%20Resources/CPCWHS2001%20delivery%20resources/CPCCWHS2001-Learner%20Workbook.docx?web=1",
+          "purpose": "WHS and safe work",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-098",
+          "fileName": "Task 3 - Work Safe - Student Guide.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%203%20Work%20Safe/3.%20DoE%20TEACHER%20%26%20LEARNER%20GUIDE/Task%203%20-%20Work%20Safe%20-%20Student%20Guide.docx?web=1",
+          "purpose": "WHS and safe work",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        }
+      ],
+      "blocks": [
+        [
+          {
+            "id": "resource-117",
+            "fileName": "WHS_Intro_Construction.pptx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%203%20Work%20Safe/4.%20Additional%20resources/WHS_Lessons/WHS_Intro_Construction.pptx?web=1",
+            "purpose": "Lesson presentations",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-108",
+            "fileName": "Duty of care PCBUs.pptx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%203%20Work%20Safe/4.%20Additional%20resources/Files%20that%20link%20directly%20to%20sample%20program/Duty%20of%20care%20PCBUs.pptx?web=1",
+            "purpose": "Lesson presentations",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-089",
+            "fileName": "CPCCWHS2001-PPT-Element 01-F-v1.1.pptx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%203%20Work%20Safe/1.%20TotalVET%20Training%20Resources/CPCWHS2001%20delivery%20resources/CPCCWHS2001%20-Presentations/CPCCWHS2001-PPT-Element%2001-F-v1.1.pptx?web=1",
+            "purpose": "Lesson presentations",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-110",
+            "fileName": "pocketguide-to-construction-safety.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%203%20Work%20Safe/4.%20Additional%20resources/pocketguide-to-construction-safety.pdf?web=1",
+            "purpose": "WHS and safe work",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-102",
+            "fileName": "Construction Signs.pptx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%203%20Work%20Safe/4.%20Additional%20resources/CPCCWHS2001%20Apply%20WHS%20requirements%2C%20policies%20and%20procedures%20in%20the%20construction%20industry/WHS_Lessons/Construction%20Signs.pptx?web=1",
+            "purpose": "Lesson presentations",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-090",
+            "fileName": "CPCCWHS2001-PPT-Element 02-F-v1.1.pptx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%203%20Work%20Safe/1.%20TotalVET%20Training%20Resources/CPCWHS2001%20delivery%20resources/CPCCWHS2001%20-Presentations/CPCCWHS2001-PPT-Element%2002-F-v1.1.pptx?web=1",
+            "purpose": "Lesson presentations",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-103",
+            "fileName": "Risk RAM_HOC.pptx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%203%20Work%20Safe/4.%20Additional%20resources/CPCCWHS2001%20Apply%20WHS%20requirements%2C%20policies%20and%20procedures%20in%20the%20construction%20industry/WHS_Lessons/Risk%20RAM_HOC.pptx?web=1",
+            "purpose": "Lesson presentations",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-111",
+            "fileName": "risk assessment template.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%203%20Work%20Safe/4.%20Additional%20resources/risk%20assessment%20template.docx?web=1",
+            "purpose": "Controlled assessment orientation",
+            "currencyStatus": "RTO-controlled / staff-only",
+            "controlled": true
+          }
+        ],
+        [
+          {
+            "id": "resource-096",
+            "fileName": "CPCCWHS2001-Teacher Manual.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%203%20Work%20Safe/1.%20TotalVET%20Training%20Resources/CPCWHS2001%20delivery%20resources/CPCCWHS2001-Teacher%20Manual.docx?web=1",
+            "purpose": "WHS and safe work",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-091",
+            "fileName": "CPCCWHS2001-PPT-Element 03-F-v1.1.pptx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%203%20Work%20Safe/1.%20TotalVET%20Training%20Resources/CPCWHS2001%20delivery%20resources/CPCCWHS2001%20-Presentations/CPCCWHS2001-PPT-Element%2003-F-v1.1.pptx?web=1",
+            "purpose": "Lesson presentations",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-105",
+            "fileName": "Asbestos fact sheet.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%203%20Work%20Safe/4.%20Additional%20resources/Files%20that%20link%20directly%20to%20sample%20program/Asbestos%20fact%20sheet.pdf?web=1",
+            "purpose": "WHS and safe work",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-104",
+            "fileName": "CPCOHS Cluster HO Asbestos Handbook.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%203%20Work%20Safe/4.%20Additional%20resources/CPCOHS%20Cluster%20HO%20Asbestos%20Handbook.pdf?web=1",
+            "purpose": "WHS and safe work",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-095",
+            "fileName": "CPCCWHS2001-Learner Workbook.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%203%20Work%20Safe/1.%20TotalVET%20Training%20Resources/CPCWHS2001%20delivery%20resources/CPCCWHS2001-Learner%20Workbook.docx?web=1",
+            "purpose": "WHS and safe work",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-110",
+            "fileName": "pocketguide-to-construction-safety.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%203%20Work%20Safe/4.%20Additional%20resources/pocketguide-to-construction-safety.pdf?web=1",
+            "purpose": "WHS and safe work",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-112",
+            "fileName": "Sample_Evacuation Diagram.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%203%20Work%20Safe/4.%20Additional%20resources/Sample_Evacuation%20Diagram.docx?web=1",
+            "purpose": "WHS and safe work",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-116",
+            "fileName": "Whs_Fire.pptx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%203%20Work%20Safe/4.%20Additional%20resources/WHS_Lessons/Whs_Fire.pptx?web=1",
+            "purpose": "Lesson presentations",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ]
+      ]
+    },
+    "task-4": {
+      "taskOrder": "4",
+      "title": "Working It Out",
+      "fileCount": 47,
+      "essentials": [
+        {
+          "id": "resource-130",
+          "fileName": "VET Teaching Program Task Working it out Draft.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%204%20Working%20It%20Out/2.%20Program/VET%20Teaching%20Program%20Task%20Working%20it%20out%20Draft.docx?web=1",
+          "purpose": "Program and delivery planning",
+          "currencyStatus": "Draft — Teacher/RTO to confirm",
+          "controlled": false
+        },
+        {
+          "id": "resource-132",
+          "fileName": "Task 4 - Working It Out - Teacher Guide.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%204%20Working%20It%20Out/3.%20DoE%20TEACHER%20%26%20LEARNER%20GUIDE/Task%204%20-%20Working%20It%20Out%20-%20Teacher%20Guide.docx?web=1",
+          "purpose": "Teacher manuals and references",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-123",
+          "fileName": "CPCCCM1011 Learner Guide (1).docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%204%20Working%20It%20Out/1.%20TotalVET%20Training%20Resources/CPCCM1011/CPCCCM1011%20Learner%20Guide%20(1).docx?web=1",
+          "purpose": "Student handouts and workbooks",
+          "currencyStatus": "Duplicate-copy check",
+          "controlled": false
+        },
+        {
+          "id": "resource-124",
+          "fileName": "CPCCCM1011 Presentation.pptx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%204%20Working%20It%20Out/1.%20TotalVET%20Training%20Resources/CPCCM1011/CPCCM1011-presentations/CPCCCM1011%20Presentation.pptx?web=1",
+          "purpose": "Lesson presentations",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-151",
+          "fileName": "Pythagorean_1.pdf",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%204%20Working%20It%20Out/4.%20Additional%20resources/Numeracy%20%26%20Calcs%20resources/Pythagorean_1.pdf?web=1",
+          "purpose": "Calculations and templates",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-128",
+          "fileName": "CPCCOM1015-PPT-Element 01-F-v2.0.pptx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%204%20Working%20It%20Out/1.%20TotalVET%20Training%20Resources/CPCCOM1015/CPCCOM1015-presentations/CPCCOM1015-PPT-Element%2001-F-v2.0.pptx?web=1",
+          "purpose": "Lesson presentations",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        }
+      ],
+      "blocks": [
+        [
+          {
+            "id": "resource-133",
+            "fileName": "Basic measuring and calculations.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%204%20Working%20It%20Out/4.%20Additional%20resources/Basic%20measuring%20and%20calculations.pdf?web=1",
+            "purpose": "Other Staffroom resources",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-146",
+            "fileName": "units of measurement_1.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%204%20Working%20It%20Out/4.%20Additional%20resources/Maths%20in%20Construction/units%20of%20measurement_1.pdf?web=1",
+            "purpose": "Other Staffroom resources",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-128",
+            "fileName": "CPCCOM1015-PPT-Element 01-F-v2.0.pptx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%204%20Working%20It%20Out/1.%20TotalVET%20Training%20Resources/CPCCOM1015/CPCCOM1015-presentations/CPCCOM1015-PPT-Element%2001-F-v2.0.pptx?web=1",
+            "purpose": "Lesson presentations",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-146",
+            "fileName": "units of measurement_1.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%204%20Working%20It%20Out/4.%20Additional%20resources/Maths%20in%20Construction/units%20of%20measurement_1.pdf?web=1",
+            "purpose": "Other Staffroom resources",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-127",
+            "fileName": "CPCCOM1015-LG-F-v2.0.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%204%20Working%20It%20Out/1.%20TotalVET%20Training%20Resources/CPCCOM1015/CPCCOM1015-LG-F-v2.0.docx?web=1",
+            "purpose": "Other Staffroom resources",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-143",
+            "fileName": "Numeracy_Perimeter_Practice_2_2.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%204%20Working%20It%20Out/4.%20Additional%20resources/Maths%20in%20Construction/Numeracy_Perimeter_Practice_2_2.pdf?web=1",
+            "purpose": "Other Staffroom resources",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-145",
+            "fileName": "Pythagorean_1.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%204%20Working%20It%20Out/4.%20Additional%20resources/Maths%20in%20Construction/Pythagorean_1.pdf?web=1",
+            "purpose": "Other Staffroom resources",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-141",
+            "fileName": "calculation_Volume_area1.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%204%20Working%20It%20Out/4.%20Additional%20resources/Maths%20in%20Construction/calculation_Volume_area1.pdf?web=1",
+            "purpose": "Other Staffroom resources",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-125",
+            "fileName": "CPCCOM1015-LAB-F-v2.0 .docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%204%20Working%20It%20Out/1.%20TotalVET%20Training%20Resources/CPCCOM1015/CPCCOM1015-LAB-F-v2.0%20.docx?web=1",
+            "purpose": "Other Staffroom resources",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-133",
+            "fileName": "Basic measuring and calculations.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%204%20Working%20It%20Out/4.%20Additional%20resources/Basic%20measuring%20and%20calculations.pdf?web=1",
+            "purpose": "Other Staffroom resources",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-124",
+            "fileName": "CPCCCM1011 Presentation.pptx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%204%20Working%20It%20Out/1.%20TotalVET%20Training%20Resources/CPCCM1011/CPCCM1011-presentations/CPCCCM1011%20Presentation.pptx?web=1",
+            "purpose": "Lesson presentations",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-387",
+            "fileName": "VET Construction job costing.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/Project%20Drawings/VET%20Construction%20job%20costing.docx?web=1",
+            "purpose": "Drawings and specifications",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-123",
+            "fileName": "CPCCCM1011 Learner Guide (1).docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%204%20Working%20It%20Out/1.%20TotalVET%20Training%20Resources/CPCCM1011/CPCCCM1011%20Learner%20Guide%20(1).docx?web=1",
+            "purpose": "Student handouts and workbooks",
+            "currencyStatus": "Duplicate-copy check",
+            "controlled": false
+          },
+          {
+            "id": "resource-387",
+            "fileName": "VET Construction job costing.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/Project%20Drawings/VET%20Construction%20job%20costing.docx?web=1",
+            "purpose": "Drawings and specifications",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ]
+      ]
+    },
+    "task-5-1": {
+      "taskOrder": "5.1",
+      "title": "Brick and Blocklaying",
+      "fileCount": 18,
+      "essentials": [
+        {
+          "id": "resource-163",
+          "fileName": "VET Teaching Program Task 5.1 Draft.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%201%20-%20Brick%20and%20Blocklaying/2.%20Program/VET%20Teaching%20Program%20Task%205.1%20Draft.docx?web=1",
+          "purpose": "Program and delivery planning",
+          "currencyStatus": "Draft — Teacher/RTO to confirm",
+          "controlled": false
+        },
+        {
+          "id": "resource-165",
+          "fileName": "Task 5.1 - Bricklaying - Teacher Guide.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%201%20-%20Brick%20and%20Blocklaying/3.%20DoE%20TEACHER%20%26%20LEARNER%20GUIDE/Task%205.1%20-%20Bricklaying%20-%20Teacher%20Guide.docx?web=1",
+          "purpose": "Teacher manuals and references",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-158",
+          "fileName": "CPCCBL2001 Learner Guide.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%201%20-%20Brick%20and%20Blocklaying/1.%20CAQA%20Training%20Resources/CPCCBL2001/CPCCBL2001%20Learner%20Guide.docx?web=1",
+          "purpose": "Student handouts and workbooks",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-159",
+          "fileName": "CPCCBL2001 Presentation.pptx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%201%20-%20Brick%20and%20Blocklaying/1.%20CAQA%20Training%20Resources/CPCCBL2001/CPCCBL2001%20Presentation.pptx?web=1",
+          "purpose": "Lesson presentations",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-160",
+          "fileName": "CPCCBL2002_CQ_LG.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%201%20-%20Brick%20and%20Blocklaying/1.%20CAQA%20Training%20Resources/CPCCBL2002/CPCCBL2002_CQ_LG.docx?web=1",
+          "purpose": "Other Staffroom resources",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-164",
+          "fileName": "Task 5.1 - Bricklaying - Student Guide.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%201%20-%20Brick%20and%20Blocklaying/3.%20DoE%20TEACHER%20%26%20LEARNER%20GUIDE/Task%205.1%20-%20Bricklaying%20-%20Student%20Guide.docx?web=1",
+          "purpose": "Teacher manuals and references",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        }
+      ],
+      "blocks": [
+        [
+          {
+            "id": "resource-165",
+            "fileName": "Task 5.1 - Bricklaying - Teacher Guide.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%201%20-%20Brick%20and%20Blocklaying/3.%20DoE%20TEACHER%20%26%20LEARNER%20GUIDE/Task%205.1%20-%20Bricklaying%20-%20Teacher%20Guide.docx?web=1",
+            "purpose": "Teacher manuals and references",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-158",
+            "fileName": "CPCCBL2001 Learner Guide.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%201%20-%20Brick%20and%20Blocklaying/1.%20CAQA%20Training%20Resources/CPCCBL2001/CPCCBL2001%20Learner%20Guide.docx?web=1",
+            "purpose": "Student handouts and workbooks",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-159",
+            "fileName": "CPCCBL2001 Presentation.pptx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%201%20-%20Brick%20and%20Blocklaying/1.%20CAQA%20Training%20Resources/CPCCBL2001/CPCCBL2001%20Presentation.pptx?web=1",
+            "purpose": "Lesson presentations",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-166",
+            "fileName": "Concrete_Mixer_Instruction.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%201%20-%20Brick%20and%20Blocklaying/4.%20Additional%20resources/CPCCBL2001%20Handle%20and%20prepare%20bricklaying%20and%20blocklaying%20materials/Concrete_Mixer_Instruction.pdf?web=1",
+            "purpose": "Practical activities and projects",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-170",
+            "fileName": "WET SAW.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%201%20-%20Brick%20and%20Blocklaying/4.%20Additional%20resources/CPCCBL2002%20Use%20bricklaying%20and%20blocklaying%20materials/WET%20SAW.pdf?web=1",
+            "purpose": "Practical activities and projects",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-160",
+            "fileName": "CPCCBL2002_CQ_LG.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%201%20-%20Brick%20and%20Blocklaying/1.%20CAQA%20Training%20Resources/CPCCBL2002/CPCCBL2002_CQ_LG.docx?web=1",
+            "purpose": "Other Staffroom resources",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-157",
+            "fileName": "CPCCBL2001 Class activity book - Student.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%201%20-%20Brick%20and%20Blocklaying/1.%20CAQA%20Training%20Resources/CPCCBL2001/CPCCBL2001%20Class%20activity%20book%20-%20Student.docx?web=1",
+            "purpose": "Student handouts and workbooks",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-166",
+            "fileName": "Concrete_Mixer_Instruction.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%201%20-%20Brick%20and%20Blocklaying/4.%20Additional%20resources/CPCCBL2001%20Handle%20and%20prepare%20bricklaying%20and%20blocklaying%20materials/Concrete_Mixer_Instruction.pdf?web=1",
+            "purpose": "Practical activities and projects",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-161",
+            "fileName": "CPCCBL2002_CQ_LW.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%201%20-%20Brick%20and%20Blocklaying/1.%20CAQA%20Training%20Resources/CPCCBL2002/CPCCBL2002_CQ_LW.docx?web=1",
+            "purpose": "Other Staffroom resources",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-160",
+            "fileName": "CPCCBL2002_CQ_LG.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%201%20-%20Brick%20and%20Blocklaying/1.%20CAQA%20Training%20Resources/CPCCBL2002/CPCCBL2002_CQ_LG.docx?web=1",
+            "purpose": "Other Staffroom resources",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-163",
+            "fileName": "VET Teaching Program Task 5.1 Draft.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%201%20-%20Brick%20and%20Blocklaying/2.%20Program/VET%20Teaching%20Program%20Task%205.1%20Draft.docx?web=1",
+            "purpose": "Program and delivery planning",
+            "currencyStatus": "Draft — Teacher/RTO to confirm",
+            "controlled": false
+          },
+          {
+            "id": "resource-162",
+            "fileName": "CPCCBL2002_CQ_TG.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%201%20-%20Brick%20and%20Blocklaying/1.%20CAQA%20Training%20Resources/CPCCBL2002/CPCCBL2002_CQ_TG.docx?web=1",
+            "purpose": "Other Staffroom resources",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ]
+      ]
+    },
+    "task-5-2": {
+      "taskOrder": "5.2",
+      "title": "Wall and Floor Tiling",
+      "fileCount": 25,
+      "essentials": [
+        {
+          "id": "resource-181",
+          "fileName": "VET Teaching Program Task 5.2 Draft.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%202%20-%20Tiling/2.%20Program/VET%20Teaching%20Program%20Task%205.2%20Draft.docx?web=1",
+          "purpose": "Program and delivery planning",
+          "currencyStatus": "Draft — Teacher/RTO to confirm",
+          "controlled": false
+        },
+        {
+          "id": "resource-183",
+          "fileName": "Task 5.2 - Tiling - Teacher Guide.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%202%20-%20Tiling/3.%20DoE%20TEACHER%20%26%20LEARNER%20GUIDE/Task%205.2%20-%20Tiling%20-%20Teacher%20Guide.docx?web=1",
+          "purpose": "Teacher manuals and references",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-173",
+          "fileName": "CPCCCM2013 Learner Guide.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%202%20-%20Tiling/1.%20CAQA%20Training%20Resources/CPCCCM2013%20Undertake%20basic%20installation%20of%20wall%20tiles/CPCCCM2013%20Learner%20Guide.docx?web=1",
+          "purpose": "Student handouts and workbooks",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-174",
+          "fileName": "CPCCCM2013 Presentation.pptx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%202%20-%20Tiling/1.%20CAQA%20Training%20Resources/CPCCCM2013%20Undertake%20basic%20installation%20of%20wall%20tiles/CPCCCM2013%20Presentation.pptx?web=1",
+          "purpose": "Lesson presentations",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-188",
+          "fileName": "Tiling Station Drawing set.pdf",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%202%20-%20Tiling/4.%20Additional%20resources/Tiling%20Station%20Drawing%20set.pdf?web=1",
+          "purpose": "Drawings and specifications",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-179",
+          "fileName": "CPCCWF2002_CQ_PP.pptx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%202%20-%20Tiling/1.%20CAQA%20Training%20Resources/CPCCWF2002%20Use%20wall%20and%20floor%20tiling%20tools%20and%20equipment/CPCCWF2002_CQ_PP.pptx?web=1",
+          "purpose": "Lesson presentations",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        }
+      ],
+      "blocks": [
+        [
+          {
+            "id": "resource-183",
+            "fileName": "Task 5.2 - Tiling - Teacher Guide.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%202%20-%20Tiling/3.%20DoE%20TEACHER%20%26%20LEARNER%20GUIDE/Task%205.2%20-%20Tiling%20-%20Teacher%20Guide.docx?web=1",
+            "purpose": "Teacher manuals and references",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-178",
+            "fileName": "CPCCWF2002 Learner Guide.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%202%20-%20Tiling/1.%20CAQA%20Training%20Resources/CPCCWF2002%20Use%20wall%20and%20floor%20tiling%20tools%20and%20equipment/CPCCWF2002%20Learner%20Guide.docx?web=1",
+            "purpose": "Practical activities and projects",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-179",
+            "fileName": "CPCCWF2002_CQ_PP.pptx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%202%20-%20Tiling/1.%20CAQA%20Training%20Resources/CPCCWF2002%20Use%20wall%20and%20floor%20tiling%20tools%20and%20equipment/CPCCWF2002_CQ_PP.pptx?web=1",
+            "purpose": "Lesson presentations",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-186",
+            "fileName": "Errors to avoid in tiling.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%202%20-%20Tiling/4.%20Additional%20resources/Errors%20to%20avoid%20in%20tiling.pdf?web=1",
+            "purpose": "Other Staffroom resources",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-176",
+            "fileName": "CPCCWF2002 Class activity book - Assessor (2).docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%202%20-%20Tiling/1.%20CAQA%20Training%20Resources/CPCCWF2002%20Use%20wall%20and%20floor%20tiling%20tools%20and%20equipment/CPCCWF2002%20Class%20activity%20book%20-%20Assessor%20(2).docx?web=1",
+            "purpose": "Controlled assessment orientation",
+            "currencyStatus": "RTO-controlled / staff-only",
+            "controlled": true
+          },
+          {
+            "id": "resource-177",
+            "fileName": "CPCCWF2002 Class activity book - Student pack.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%202%20-%20Tiling/1.%20CAQA%20Training%20Resources/CPCCWF2002%20Use%20wall%20and%20floor%20tiling%20tools%20and%20equipment/CPCCWF2002%20Class%20activity%20book%20-%20Student%20pack.docx?web=1",
+            "purpose": "Practical activities and projects",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-188",
+            "fileName": "Tiling Station Drawing set.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%202%20-%20Tiling/4.%20Additional%20resources/Tiling%20Station%20Drawing%20set.pdf?web=1",
+            "purpose": "Drawings and specifications",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-193",
+            "fileName": "Tiling_Photos.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%202%20-%20Tiling/4.%20Additional%20resources/Tiling_Photos.pdf?web=1",
+            "purpose": "Other Staffroom resources",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-191",
+            "fileName": "tiling_1_materials Worksheet.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%202%20-%20Tiling/4.%20Additional%20resources/tiling_1_materials%20Worksheet.pdf?web=1",
+            "purpose": "Student handouts and workbooks",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-189",
+            "fileName": "tiling_1_materials Presentation - Copy.pptx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%202%20-%20Tiling/4.%20Additional%20resources/tiling_1_materials%20Presentation%20-%20Copy.pptx?web=1",
+            "purpose": "Lesson presentations",
+            "currencyStatus": "Duplicate-copy check",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-192",
+            "fileName": "tiling_2_how to mix motar.pptx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%202%20-%20Tiling/4.%20Additional%20resources/tiling_2_how%20to%20mix%20motar.pptx?web=1",
+            "purpose": "Lesson presentations",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-173",
+            "fileName": "CPCCCM2013 Learner Guide.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%202%20-%20Tiling/1.%20CAQA%20Training%20Resources/CPCCCM2013%20Undertake%20basic%20installation%20of%20wall%20tiles/CPCCCM2013%20Learner%20Guide.docx?web=1",
+            "purpose": "Student handouts and workbooks",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ]
+      ]
+    },
+    "task-5-3": {
+      "taskOrder": "5.3",
+      "title": "Joinery",
+      "fileCount": 39,
+      "essentials": [
+        {
+          "id": "resource-202",
+          "fileName": "VET Teaching Program Task 5.3 Draft.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%203%20-%20Joinery/2.%20Program/VET%20Teaching%20Program%20Task%205.3%20Draft.docx?web=1",
+          "purpose": "Program and delivery planning",
+          "currencyStatus": "Draft — Teacher/RTO to confirm",
+          "controlled": false
+        },
+        {
+          "id": "resource-204",
+          "fileName": "Task 5.3 - Joinery - Teacher Guide.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%203%20-%20Joinery/3.%20DoE%20TEACHER%20%26%20LEARNER%20GUIDE/Task%205.3%20-%20Joinery%20-%20Teacher%20Guide.docx?web=1",
+          "purpose": "Teacher manuals and references",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-196",
+          "fileName": "CPCCJN2001 Learner Guide.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%203%20-%20Joinery/1.%20CAQA%20Training%20Resources/CPCCJN2001%20Assemble%20components/CPCCJN2001%20Learner%20Guide.docx?web=1",
+          "purpose": "Student handouts and workbooks",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-197",
+          "fileName": "CPCCJN2001 Presentation.pptx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%203%20-%20Joinery/1.%20CAQA%20Training%20Resources/CPCCJN2001%20Assemble%20components/CPCCJN2001%20Presentation.pptx?web=1",
+          "purpose": "Lesson presentations",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-209",
+          "fileName": "Door Drawing Set Complete.pdf",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%203%20-%20Joinery/4.%20Additional%20resources/CPCCJN3004%20Manufacture%20and%20assemble%20joinery%20components/Door%20and%20wall%20frame/4Doors_option_1/Door%20Drawing%20Set%20Complete.pdf?web=1",
+          "purpose": "Drawings and specifications",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-200",
+          "fileName": "CPCCJN3004_CQ_PP.pptx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%203%20-%20Joinery/1.%20CAQA%20Training%20Resources/CPCCJN3004%20Manufacture%20and%20assemble%20joinery%20components/CPCCJN3004_CQ_PP.pptx?web=1",
+          "purpose": "Lesson presentations",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        }
+      ],
+      "blocks": [
+        [
+          {
+            "id": "resource-204",
+            "fileName": "Task 5.3 - Joinery - Teacher Guide.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%203%20-%20Joinery/3.%20DoE%20TEACHER%20%26%20LEARNER%20GUIDE/Task%205.3%20-%20Joinery%20-%20Teacher%20Guide.docx?web=1",
+            "purpose": "Teacher manuals and references",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-196",
+            "fileName": "CPCCJN2001 Learner Guide.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%203%20-%20Joinery/1.%20CAQA%20Training%20Resources/CPCCJN2001%20Assemble%20components/CPCCJN2001%20Learner%20Guide.docx?web=1",
+            "purpose": "Student handouts and workbooks",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-197",
+            "fileName": "CPCCJN2001 Presentation.pptx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%203%20-%20Joinery/1.%20CAQA%20Training%20Resources/CPCCJN2001%20Assemble%20components/CPCCJN2001%20Presentation.pptx?web=1",
+            "purpose": "Lesson presentations",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-220",
+            "fileName": "Assembly of components.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%203%20-%20Joinery/4.%20Additional%20resources/Materials%20and%20sustainability/Assembly%20of%20components.docx?web=1",
+            "purpose": "Drawings and specifications",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-200",
+            "fileName": "CPCCJN3004_CQ_PP.pptx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%203%20-%20Joinery/1.%20CAQA%20Training%20Resources/CPCCJN3004%20Manufacture%20and%20assemble%20joinery%20components/CPCCJN3004_CQ_PP.pptx?web=1",
+            "purpose": "Lesson presentations",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-209",
+            "fileName": "Door Drawing Set Complete.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%203%20-%20Joinery/4.%20Additional%20resources/CPCCJN3004%20Manufacture%20and%20assemble%20joinery%20components/Door%20and%20wall%20frame/4Doors_option_1/Door%20Drawing%20Set%20Complete.pdf?web=1",
+            "purpose": "Drawings and specifications",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-227",
+            "fileName": "Task 1 Timber Framing Joints Set.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%203%20-%20Joinery/4.%20Additional%20resources/Task%205.3%20Joinery%20Plans/Task%201%20Timber%20Framing%20Joints%20Set.pdf?web=1",
+            "purpose": "Drawings and specifications",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-224",
+            "fileName": "Joinery _Knockdown Fittings.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%203%20-%20Joinery/4.%20Additional%20resources/Task%205.3%20Joinery%20Plans/Joinery%20_Knockdown%20Fittings.pdf?web=1",
+            "purpose": "Drawings and specifications",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-218",
+            "fileName": "Adhesives theory.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%203%20-%20Joinery/4.%20Additional%20resources/Materials%20and%20sustainability/Adhesives%20theory.pdf?web=1",
+            "purpose": "Practical activities and projects",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-221",
+            "fileName": "Classification and properties of wood.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%203%20-%20Joinery/4.%20Additional%20resources/Materials%20and%20sustainability/Classification%20and%20properties%20of%20wood.pdf?web=1",
+            "purpose": "Practical activities and projects",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-211",
+            "fileName": "Material Pricing for Door.xlsx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%203%20-%20Joinery/4.%20Additional%20resources/CPCCJN3004%20Manufacture%20and%20assemble%20joinery%20components/Door%20and%20wall%20frame/4Doors_option_1/Material%20Pricing%20for%20Door.xlsx?web=1",
+            "purpose": "Calculations and templates",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-212",
+            "fileName": "Teacher fabrication notes for scaled down door.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%203%20-%20Joinery/4.%20Additional%20resources/CPCCJN3004%20Manufacture%20and%20assemble%20joinery%20components/Door%20and%20wall%20frame/4Doors_option_1/Teacher%20fabrication%20notes%20for%20scaled%20down%20door.docx?web=1",
+            "purpose": "Teacher manuals and references",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-202",
+            "fileName": "VET Teaching Program Task 5.3 Draft.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%203%20-%20Joinery/2.%20Program/VET%20Teaching%20Program%20Task%205.3%20Draft.docx?web=1",
+            "purpose": "Program and delivery planning",
+            "currencyStatus": "Draft — Teacher/RTO to confirm",
+            "controlled": false
+          },
+          {
+            "id": "resource-201",
+            "fileName": "CPCCJN3004_CQ_TG.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%205%20Options/Option%203%20-%20Joinery/1.%20CAQA%20Training%20Resources/CPCCJN3004%20Manufacture%20and%20assemble%20joinery%20components/CPCCJN3004_CQ_TG.docx?web=1",
+            "purpose": "Other Staffroom resources",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ]
+      ]
+    },
+    "task-6": {
+      "taskOrder": "6",
+      "title": "Project Planning",
+      "fileCount": 29,
+      "essentials": [
+        {
+          "id": "resource-242",
+          "fileName": "VET Teaching Program Task Project Planning Draft.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%206%20Project%20Planning/2.%20Program/VET%20Teaching%20Program%20Task%20Project%20Planning%20Draft.docx?web=1",
+          "purpose": "Program and delivery planning",
+          "currencyStatus": "Draft — Teacher/RTO to confirm",
+          "controlled": false
+        },
+        {
+          "id": "resource-238",
+          "fileName": "CPCCOM2001 Teacher guide.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%206%20Project%20Planning/1.%20TotalVET%20and%20CAQA%20Training%20Resources/CPCCOM2001/CPCCOM2001%20Teacher%20guide.docx?web=1",
+          "purpose": "Practical activities and projects",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-230",
+          "fileName": "CPCCOM1013-Learner Guide.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%206%20Project%20Planning/1.%20TotalVET%20and%20CAQA%20Training%20Resources/CPCCOM1013/CPCCOM1013-Learner%20Guide.docx?web=1",
+          "purpose": "Practical activities and projects",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-232",
+          "fileName": "CPCCOM1013-PPT-Element 01-F-v2.0.pptx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%206%20Project%20Planning/1.%20TotalVET%20and%20CAQA%20Training%20Resources/CPCCOM1013/CPCCOM1013-presentations/CPCCOM1013-PPT-Element%2001-F-v2.0.pptx?web=1",
+          "purpose": "Lesson presentations",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-247",
+          "fileName": "Sample Quote Template (1).xlsx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%206%20Project%20Planning/4.%20Additional%20resources/CPCCOM1013%20Plan%20and%20organise%20work/Sample%20Quote%20Template%20(1).xlsx?web=1",
+          "purpose": "Drawings and specifications",
+          "currencyStatus": "Duplicate-copy check",
+          "controlled": false
+        },
+        {
+          "id": "resource-239",
+          "fileName": "CPCCOM2001 Presentation.pptx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%206%20Project%20Planning/1.%20TotalVET%20and%20CAQA%20Training%20Resources/CPCCOM2001/CPCCOM2001-presentation/CPCCOM2001%20Presentation.pptx?web=1",
+          "purpose": "Lesson presentations",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        }
+      ],
+      "blocks": [
+        [
+          {
+            "id": "resource-232",
+            "fileName": "CPCCOM1013-PPT-Element 01-F-v2.0.pptx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%206%20Project%20Planning/1.%20TotalVET%20and%20CAQA%20Training%20Resources/CPCCOM1013/CPCCOM1013-presentations/CPCCOM1013-PPT-Element%2001-F-v2.0.pptx?web=1",
+            "purpose": "Lesson presentations",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-230",
+            "fileName": "CPCCOM1013-Learner Guide.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%206%20Project%20Planning/1.%20TotalVET%20and%20CAQA%20Training%20Resources/CPCCOM1013/CPCCOM1013-Learner%20Guide.docx?web=1",
+            "purpose": "Practical activities and projects",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-233",
+            "fileName": "CPCCOM1013-PPT-Element 02-F-v2.0.pptx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%206%20Project%20Planning/1.%20TotalVET%20and%20CAQA%20Training%20Resources/CPCCOM1013/CPCCOM1013-presentations/CPCCOM1013-PPT-Element%2002-F-v2.0.pptx?web=1",
+            "purpose": "Lesson presentations",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-333",
+            "fileName": "Gantt Chart.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/Construction%20Posters/Gantt%20Chart.pdf?web=1",
+            "purpose": "Calculations and templates",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-239",
+            "fileName": "CPCCOM2001 Presentation.pptx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%206%20Project%20Planning/1.%20TotalVET%20and%20CAQA%20Training%20Resources/CPCCOM2001/CPCCOM2001-presentation/CPCCOM2001%20Presentation.pptx?web=1",
+            "purpose": "Lesson presentations",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-241",
+            "fileName": "Technical drawings and plans - For reference prupsoe only.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%206%20Project%20Planning/1.%20TotalVET%20and%20CAQA%20Training%20Resources/CPCCOM2001/Technical%20drawings%20and%20plans%20-%20For%20reference%20prupsoe%20only.docx?web=1",
+            "purpose": "Drawings and specifications",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-240",
+            "fileName": "General Building Specifications - For reference prupsoe only.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%206%20Project%20Planning/1.%20TotalVET%20and%20CAQA%20Training%20Resources/CPCCOM2001/General%20Building%20Specifications%20-%20For%20reference%20prupsoe%20only.docx?web=1",
+            "purpose": "Practical activities and projects",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-247",
+            "fileName": "Sample Quote Template (1).xlsx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%206%20Project%20Planning/4.%20Additional%20resources/CPCCOM1013%20Plan%20and%20organise%20work/Sample%20Quote%20Template%20(1).xlsx?web=1",
+            "purpose": "Drawings and specifications",
+            "currencyStatus": "Duplicate-copy check",
+            "controlled": false
+          },
+          {
+            "id": "resource-245",
+            "fileName": "Carpentry_Quoting and Communication Lesson Plan (2).pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%206%20Project%20Planning/4.%20Additional%20resources/CPCCOM1013%20Plan%20and%20organise%20work/Carpentry_Quoting%20and%20Communication%20Lesson%20Plan%20(2).pdf?web=1",
+            "purpose": "Drawings and specifications",
+            "currencyStatus": "Duplicate-copy check",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-387",
+            "fileName": "VET Construction job costing.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/Project%20Drawings/VET%20Construction%20job%20costing.docx?web=1",
+            "purpose": "Drawings and specifications",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-242",
+            "fileName": "VET Teaching Program Task Project Planning Draft.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%206%20Project%20Planning/2.%20Program/VET%20Teaching%20Program%20Task%20Project%20Planning%20Draft.docx?web=1",
+            "purpose": "Program and delivery planning",
+            "currencyStatus": "Draft — Teacher/RTO to confirm",
+            "controlled": false
+          },
+          {
+            "id": "resource-244",
+            "fileName": "Task 6 - Project Planning - Teacher Guide.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%206%20Project%20Planning/3.%20DoE%20TEACHER%20%26%20LEARNER%20GUIDE/Task%206%20-%20Project%20Planning%20-%20Teacher%20Guide.docx?web=1",
+            "purpose": "Practical activities and projects",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ]
+      ]
+    },
+    "task-7": {
+      "taskOrder": "7",
+      "title": "Group Project",
+      "fileCount": 37,
+      "essentials": [
+        {
+          "id": "resource-259",
+          "fileName": "VET Teaching Program Task Group Project Draft.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%207%20Group%20Project/2.%20Program/VET%20Teaching%20Program%20Task%20Group%20Project%20Draft.docx?web=1",
+          "purpose": "Program and delivery planning",
+          "currencyStatus": "Draft — Teacher/RTO to confirm",
+          "controlled": false
+        },
+        {
+          "id": "resource-258",
+          "fileName": "CPCCVE1011 Learner Guide.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%207%20Group%20Project/1.%20TotalVET%20Training%20Resources/CPCCVE1011%20Undertake%20a%20basic%20construction%20project/CPCCVE1011%20Learner%20Guide.docx?web=1",
+          "purpose": "Practical activities and projects",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-293",
+          "fileName": "CPCCVE1011 Presentation.pptx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/b.%20PowerPoint%20Resources/CPCCVE1011/CPCCVE1011%20Presentation.pptx?web=1",
+          "purpose": "Lesson presentations",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-333",
+          "fileName": "Gantt Chart.pdf",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/Construction%20Posters/Gantt%20Chart.pdf?web=1",
+          "purpose": "Calculations and templates",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-255",
+          "fileName": "CPCCOM1012-LG-F-v1.0.docx",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%207%20Group%20Project/1.%20TotalVET%20Training%20Resources/CPCCOM1012%20Work%20effectively%20and%20sustainably%20in%20the%20Construction%20Industry/CPCCOM1012-LG-F-v1.0.docx?web=1",
+          "purpose": "Practical activities and projects",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        },
+        {
+          "id": "resource-329",
+          "fileName": "Conflict Poster.pdf",
+          "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/Construction%20Posters/Conflict%20Poster.pdf?web=1",
+          "purpose": "Other Staffroom resources",
+          "currencyStatus": "Verify current Staffroom version",
+          "controlled": false
+        }
+      ],
+      "blocks": [
+        [
+          {
+            "id": "resource-284",
+            "fileName": "CPCCOM1012-PPT-Element-01-F-v1.0.pptx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/b.%20PowerPoint%20Resources/CPCCOM1012/CPCCOM1012-PPT-Element-01-F-v1.0.pptx?web=1",
+            "purpose": "Lesson presentations",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-254",
+            "fileName": "CPCCOM1012-LG-F-v1.0 (1).docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%207%20Group%20Project/1.%20TotalVET%20Training%20Resources/CPCCOM1012%20Work%20effectively%20and%20sustainably%20in%20the%20Construction%20Industry/CPCCOM1012-LG-F-v1.0%20(1).docx?web=1",
+            "purpose": "Practical activities and projects",
+            "currencyStatus": "Duplicate-copy check",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-331",
+            "fileName": "Environmental protection.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/Construction%20Posters/Environmental%20protection.docx?web=1",
+            "purpose": "Other Staffroom resources",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-285",
+            "fileName": "CPCCOM1012-PPT-Element-02-F-v1.0.pptx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/b.%20PowerPoint%20Resources/CPCCOM1012/CPCCOM1012-PPT-Element-02-F-v1.0.pptx?web=1",
+            "purpose": "Lesson presentations",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-329",
+            "fileName": "Conflict Poster.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/Construction%20Posters/Conflict%20Poster.pdf?web=1",
+            "purpose": "Other Staffroom resources",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-286",
+            "fileName": "CPCCOM1012-PPT-Element-03-F-v1.0.pptx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/b.%20PowerPoint%20Resources/CPCCOM1012/CPCCOM1012-PPT-Element-03-F-v1.0.pptx?web=1",
+            "purpose": "Lesson presentations",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-293",
+            "fileName": "CPCCVE1011 Presentation.pptx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/b.%20PowerPoint%20Resources/CPCCVE1011/CPCCVE1011%20Presentation.pptx?web=1",
+            "purpose": "Lesson presentations",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-258",
+            "fileName": "CPCCVE1011 Learner Guide.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%207%20Group%20Project/1.%20TotalVET%20Training%20Resources/CPCCVE1011%20Undertake%20a%20basic%20construction%20project/CPCCVE1011%20Learner%20Guide.docx?web=1",
+            "purpose": "Practical activities and projects",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-335",
+            "fileName": "Quality Control.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/Construction%20Posters/Quality%20Control.pdf?web=1",
+            "purpose": "Other Staffroom resources",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-333",
+            "fileName": "Gantt Chart.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/Construction%20Posters/Gantt%20Chart.pdf?web=1",
+            "purpose": "Calculations and templates",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-255",
+            "fileName": "CPCCOM1012-LG-F-v1.0.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%207%20Group%20Project/1.%20TotalVET%20Training%20Resources/CPCCOM1012%20Work%20effectively%20and%20sustainably%20in%20the%20Construction%20Industry/CPCCOM1012-LG-F-v1.0.docx?web=1",
+            "purpose": "Practical activities and projects",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          },
+          {
+            "id": "resource-258",
+            "fileName": "CPCCVE1011 Learner Guide.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%207%20Group%20Project/1.%20TotalVET%20Training%20Resources/CPCCVE1011%20Undertake%20a%20basic%20construction%20project/CPCCVE1011%20Learner%20Guide.docx?web=1",
+            "purpose": "Practical activities and projects",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ],
+        [
+          {
+            "id": "resource-259",
+            "fileName": "VET Teaching Program Task Group Project Draft.docx",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%207%20Group%20Project/2.%20Program/VET%20Teaching%20Program%20Task%20Group%20Project%20Draft.docx?web=1",
+            "purpose": "Program and delivery planning",
+            "currencyStatus": "Draft — Teacher/RTO to confirm",
+            "controlled": false
+          },
+          {
+            "id": "resource-260",
+            "fileName": "Apprenticeship and Traineeship webinar.pdf",
+            "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Construction/Resource%20Library/a.%20Programs%20and%20Resources/Task%207%20Group%20Project/3.%20Additional%20resources/CPCCCM1012%20Work%20effectively%20and%20sustainably%20in%20the%20construction%20industry/Apprenticeship%20and%20Traineeship%20webinar.pdf?web=1",
+            "purpose": "Videos and demonstrations",
+            "currencyStatus": "Verify current Staffroom version",
+            "controlled": false
+          }
+        ]
+      ]
+    }
+  }
+}
+

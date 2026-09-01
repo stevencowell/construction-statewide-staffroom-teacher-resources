@@ -1,0 +1,59 @@
+{
+  "candidate": "Construction Statewide Staffroom Teacher Resources",
+  "version": "0.2.0-direct-resource-local-candidate",
+  "mapped_at": "2026-09-01",
+  "authority": {
+    "permitted_source": "Authenticated VET statewide staffroom > Construction > Shared > Resource Library",
+    "access_state": "Signed-in read-only inventory using the authenticated SharePoint search index, folder UI and representative Word/PowerPoint Online opening checks",
+    "content_limit": "Only facts, file titles, program relationships and resource destinations visible within the Resource Library were used.",
+    "format_reference_only": "Accepted Work Studies two-year master program layout; no Work Studies content imported."
+  },
+  "scope": {
+    "audience": "Construction teachers",
+    "site_job": "Authenticated-resource navigator and supplementary planning layer",
+    "program_job": "One source-aligned whole-course teacher delivery program with option branches",
+    "assessment": "Orientation and pointers only; controlled instruments, answers, assessor materials, learner evidence and competency decisions excluded",
+    "quizzes": "No quizzes or interactive knowledge checks built",
+    "visual_target": 0,
+    "visual_exception": "This is a teacher-only link-and-program navigator. The authorised source material remains inside SharePoint and was not licensed or requested for republication. Adding 30 photographs would require copied, invented or decorative material and would not perform a necessary teacher-learning job."
+  },
+  "separation": {
+    "protected_original": "https://stevencowell.github.io/Construction-Supplementary-material/",
+    "rule": "Do not edit, copy into, route through, share storage with or deploy over the original student/evidence-facing site.",
+    "new_candidate_path": "outputs/construction-statewide-staffroom-teacher-resources",
+    "storage": "No localStorage, IndexedDB, service worker or learner evidence state"
+  },
+  "exclusions": [
+    "Resource Library/temp sharing — retained only in the complete inventory, labelled Archive / superseded check and hidden from the default library view; not curated into task teaching sequences",
+    "Resource Library/a. Programs and Resources/Document Library.url — retained only in the complete inventory, labelled Archive / superseded check and hidden by default as a redundant pointer",
+    "Controlled assessment instruments, assessor guides, answers and learner/workplace data",
+    "Facts from the original Construction supplementary site",
+    "Public-web curriculum, training-package, legal or standards claims not present in the authorised Resource Library"
+  ],
+  "source_programs": [
+    {"task": "2", "file": "VET Teaching Program Task Tools and Equipment Draft V2.docx", "pages_inspected": 13},
+    {"task": "3", "file": "VET Teaching Program Task Work Safe Draft.docx", "pages_inspected": 19},
+    {"task": "4", "file": "VET Teaching Program Task Working it out Draft.docx", "pages_inspected": 12},
+    {"task": "5.1", "file": "VET Teaching Program Task 5.1 Draft.docx", "pages_inspected": 9},
+    {"task": "5.2", "file": "VET Teaching Program Task 5.2 Draft.docx", "pages_inspected": 7},
+    {"task": "5.3", "file": "VET Teaching Program Task 5.3 Draft.docx", "pages_inspected": 7},
+    {"task": "6", "file": "VET Teaching Program Task Project Planning Draft.docx", "pages_inspected": 12},
+    {"task": "7", "file": "VET Teaching Program Task Group Project Draft.docx", "pages_inspected": 16}
+  ],
+  "known_source_conflicts": [
+    "Source drafts use different study years (2024, 2025 and 2026) and do not establish a current whole-course calendar.",
+    "Source-stated weeks and unit indicative hours are not reconciled into a local timetable.",
+    "CPC20120 qualification wording varies and is sometimes printed without the level indicator.",
+    "Prerequisite wording/codes vary across task drafts.",
+    "Task 7 page 1 lists CPCCVE1011 and CPCCOM1012, while pages 14–15 introduce CPCCCM1011 but map basic-project content.",
+    "Task 5 option programs explicitly state no HSC content for their competencies.",
+    "The direct-resource layer contains 425 exact path-based Staffroom file links; file currency and approval must still be reconfirmed in the signed-in Staffroom before use."
+  ],
+  "status": {
+    "local": true,
+    "committed": false,
+    "pushed": false,
+    "deployed": false,
+    "live_verified": false
+  }
+}

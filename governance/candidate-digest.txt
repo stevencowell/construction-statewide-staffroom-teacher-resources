@@ -1,0 +1,7 @@
+Construction Statewide Staffroom Teacher Resources
+Core candidate SHA-256: 7d258f3840875ddd700c3f0b4353e479c3ab09208860e8a4d17421141f36bc3b
+Frozen: 1 September 2026
+Digest scope: 20 core site, direct-resource, program, source and route files present before final audit-report generation.
+Excluded from the digest to avoid recursive hashing: candidate-digest.txt and the final foundation, integration, content, visual, network-gap, network-parity and acceptance reports.
+
+This digest identifies the exact local category-navigation and direct-resource candidate accepted by the reports in this governance folder. It is not a release or deployment identifier.

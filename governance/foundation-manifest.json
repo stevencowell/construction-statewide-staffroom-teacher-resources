@@ -1,0 +1,34 @@
+{
+  "candidate": "Construction Statewide Staffroom Teacher Resources",
+  "version": "0.3.0-category-navigation-local-candidate",
+  "candidate_digest": "7d258f3840875ddd700c3f0b4353e479c3ab09208860e8a4d17421141f36bc3b",
+  "digest_scope_files": 20,
+  "audience": "Construction teachers",
+  "site_job": "Teacher-only exact-file Staffroom navigator and supplementary planning layer",
+  "authoritative_source": "VET statewide staffroom > Construction > Shared > Resource Library",
+  "source_as_at": "2026-09-01",
+  "architecture": {
+    "html_pages": 5,
+    "mapped_routes": 13,
+    "canonical_course_data": "assets/site-data.js",
+    "canonical_resource_data": "assets/resource-data.js",
+    "exact_file_records": 425,
+    "styles": "assets/styles.css",
+    "behaviour": "assets/app.js",
+    "downloads": 3,
+    "task_group_banners": 4,
+    "resource_supercategories": 7,
+    "visible_resource_category_labels": 425,
+    "browser_storage": "none",
+    "service_worker": false,
+    "learner_state": false
+  },
+  "boundaries": {
+    "teacher_only": true,
+    "controlled_files_republished": false,
+    "quiz_or_learner_evidence_features": false,
+    "original_site_edited_or_shared": false,
+    "public_hosting_approved": false
+  },
+  "status": "PASS"
+}

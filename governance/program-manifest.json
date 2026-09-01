@@ -1,0 +1,41 @@
+{
+  "program": "Construction — Staffroom-aligned teacher delivery program",
+  "version": "0.2.0-direct-resource-local-candidate",
+  "format": "A4 landscape network_VET_program override",
+  "source": "VET statewide staffroom > Construction > Shared > Resource Library",
+  "source_as_at": "1 September 2026",
+  "sections": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5.1",
+    "5.2",
+    "5.3",
+    "6",
+    "7"
+  ],
+  "delivery_blocks": 60,
+  "direct_resource_inventory": {
+    "file_records": 425,
+    "curated_task_links": 54,
+    "delivery_block_links": 117,
+    "blocks_with_direct_resources": 60,
+    "resource_map": "program-resource-map.json",
+    "resource_map_sha256": "bd2dbe9a3f961fb5f2ec3a5df1983967e03174c0278de09de9924ff139715962",
+    "resource_inventory": "resource-inventory.json",
+    "resource_inventory_sha256": "d8a4d025bd2576a9d8465423521cf6d44b2df05d35dd0ab037123265ba2eb3c5"
+  },
+  "task_5_logic": "5.1, 5.2 and 5.3 are alternative option pathways",
+  "outputs": {
+    "docx": "Construction_Aligned_Teacher_Delivery_Program.docx",
+    "docx_sha256": "ae3e7fd26cda2c0e3456271c8a2bc38a92e6dec72ffed8167c273f730e48d944",
+    "pdf": "Construction_Aligned_Teacher_Delivery_Program.pdf",
+    "pdf_sha256": "b7e4180e462d3e94cc368e6c9a1d9f25f9b724473098fb29a67a41abf6a198de",
+    "pdf_pages": 15,
+    "ledger": "Construction_Delivery_Ledger.csv",
+    "ledger_sha256": "e25101223b07eef9f5af43a41946de5bd3123a680e9e855102f6c8a58d5fc479"
+  },
+  "boundary": "Supplementary teacher planning and resource navigation only. This site is not an RTO assessment system, assessor guide, evidence store or competency record.",
+  "status": "local candidate; Word-rendered PDF visually verified page by page; final site acceptance pending"
+}

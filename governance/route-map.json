@@ -1,0 +1,57 @@
+{
+  "version": "0.2.0-direct-resource-local-candidate",
+  "routes": [
+    {
+      "route": "index.html",
+      "purpose": "Teacher landing page"
+    },
+    {
+      "route": "program.html",
+      "purpose": "Complete program overview and downloads"
+    },
+    {
+      "route": "library.html",
+      "purpose": "Searchable 425-file Staffroom direct-resource index"
+    },
+    {
+      "route": "sources.html",
+      "purpose": "Authority, assessment, privacy and separation boundary"
+    },
+    {
+      "route": "task.html?id=task-1",
+      "purpose": "Task 1 — White Card teacher guide"
+    },
+    {
+      "route": "task.html?id=task-2",
+      "purpose": "Task 2 — Tools, Equipment and Materials teacher guide"
+    },
+    {
+      "route": "task.html?id=task-3",
+      "purpose": "Task 3 — Work Safe teacher guide"
+    },
+    {
+      "route": "task.html?id=task-4",
+      "purpose": "Task 4 — Working It Out teacher guide"
+    },
+    {
+      "route": "task.html?id=task-5-1",
+      "purpose": "Task 5.1 — Brick and Blocklaying teacher guide"
+    },
+    {
+      "route": "task.html?id=task-5-2",
+      "purpose": "Task 5.2 — Wall and Floor Tiling teacher guide"
+    },
+    {
+      "route": "task.html?id=task-5-3",
+      "purpose": "Task 5.3 — Joinery teacher guide"
+    },
+    {
+      "route": "task.html?id=task-6",
+      "purpose": "Task 6 — Project Planning teacher guide"
+    },
+    {
+      "route": "task.html?id=task-7",
+      "purpose": "Task 7 — Group Project teacher guide"
+    }
+  ]
+}

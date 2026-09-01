@@ -1,0 +1,56 @@
+{
+  "candidate": "Construction Statewide Staffroom Teacher Resources",
+  "version": "0.3.0-category-navigation-local-candidate",
+  "candidate_digest": "7d258f3840875ddd700c3f0b4353e479c3ab09208860e8a4d17421141f36bc3b",
+  "integrated_outputs": {
+    "website": [
+      "index.html",
+      "program.html",
+      "task.html",
+      "library.html",
+      "sources.html"
+    ],
+    "complete_program": [
+      "downloads/Construction_Aligned_Teacher_Delivery_Program.docx",
+      "downloads/Construction_Aligned_Teacher_Delivery_Program.pdf"
+    ],
+    "implementation_ledger": "downloads/Construction_Delivery_Ledger.csv",
+    "direct_resource_registry": "assets/resource-data.js"
+  },
+  "integrated_content": {
+    "task_and_option_records": 9,
+    "delivery_blocks": 60,
+    "blocks_with_direct_files": 60,
+    "task_5_relationship": "5.1, 5.2 and 5.3 are alternative pathways; use only the locally authorised option",
+    "exact_staffroom_file_records": 425,
+    "curated_task_essentials": 54,
+    "mapped_delivery_block_links": 117,
+    "docx_direct_hyperlink_instances": 148,
+    "docx_folder_fallback_instances": 9
+  },
+  "verification": {
+    "valid_routes_and_downloads_http_200": true,
+    "javascript_syntax": "PASS",
+    "browser_console_errors": 0,
+    "default_library_visible_files": 403,
+    "archive_toggle_total_files": 425,
+    "task_2_essential_filter_files": 11,
+    "direct_urls_without_session_tokens": true,
+    "exact_file_action_is_primary": true,
+    "folder_action_is_secondary": true,
+    "four_task_group_banners_on_home_and_program": true,
+    "seven_resource_supercategories": true,
+    "visible_category_labels_on_all_425_resource_cards": true,
+    "source_boundary_category_groups": 2,
+    "category_meaning_not_colour_only": true,
+    "exact_390_overflow": false,
+    "desktop_1280_overflow": false,
+    "minimum_direct_link_target_px": 44
+  },
+  "separation": {
+    "original_site_routes_or_assets_imported": false,
+    "shared_storage_namespaces": false,
+    "release_destination": null
+  },
+  "status": "PASS"
+}

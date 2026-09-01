@@ -1,0 +1,29 @@
+{
+  "audit": "Independent VET supplementary content, direct-resource and boundary audit",
+  "date": "2026-09-01",
+  "candidate_digest": "7d258f3840875ddd700c3f0b4353e479c3ab09208860e8a4d17421141f36bc3b",
+  "decision": "PASS",
+  "remaining_findings": [],
+  "checks": {
+    "teacher_only_and_staffroom_only_scope": "PASS",
+    "425_unique_exact_file_paths": "PASS",
+    "direct_url_syntax_and_session_safety": "PASS",
+    "nine_task_routes": "PASS",
+    "sixty_blocks_with_direct_resources": "PASS",
+    "task_program_source_fidelity": "PASS",
+    "task_5_alternative_paths": "PASS",
+    "task_7_source_contradiction_retained": "PASS",
+    "assessment_and_competency_boundary": "PASS",
+    "no_built_quizzes_or_learner_evidence": "PASS",
+    "original_site_separation": "PASS",
+    "archive_and_redundant_pointer_hidden_by_default": "PASS",
+    "category_copy_does_not_add_course_or_assessment_facts": "PASS"
+  },
+  "resolved_before_freeze": [
+    "Replaced folder-first navigation with a canonical 425-file direct-resource registry.",
+    "Mapped named exact files into all 60 website and program delivery blocks.",
+    "Kept original folders only as explicitly labelled secondary fallbacks.",
+    "Added draft, dated, duplicate, archive and controlled-use cues without silently correcting source material.",
+    "Grouped cards with source-safe teaching-purpose and program-stage labels without changing links, task facts or RTO boundaries."
+  ]
+}

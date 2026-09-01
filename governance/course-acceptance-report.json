@@ -1,0 +1,46 @@
+{
+  "candidate": "Construction Statewide Staffroom Teacher Resources",
+  "version": "0.3.0-category-navigation-local-candidate",
+  "accepted_at": "2026-09-01",
+  "candidate_digest": "7d258f3840875ddd700c3f0b4353e479c3ab09208860e8a4d17421141f36bc3b",
+  "decision": "ACCEPTED_LOCAL_CANDIDATE",
+  "acceptance_scope": "Teacher-only exact-file website, complete aligned program and delivery ledger",
+  "gates": {
+    "authorised_source_and_scope_map": "PASS",
+    "separate_foundation": "PASS",
+    "425_file_direct_resource_layer": "PASS",
+    "sixty_block_resource_mapping": "PASS",
+    "complete_program_pack": "PASS",
+    "integration_and_routes": "PASS",
+    "content_and_assessment_boundary": "PASS",
+    "technical_and_accessibility": "PASS",
+    "visual_and_responsive": "PASS",
+    "network_category_and_banner_parity": "PASS",
+    "privacy_and_original_site_separation": "PASS",
+    "document_render_and_hash_binding": "PASS"
+  },
+  "accepted_outputs": [
+    "index.html",
+    "assets/resource-data.js",
+    "downloads/Construction_Aligned_Teacher_Delivery_Program.docx",
+    "downloads/Construction_Aligned_Teacher_Delivery_Program.pdf",
+    "downloads/Construction_Delivery_Ledger.csv"
+  ],
+  "known_teacher_rto_confirmations_retained": [
+    "Current qualification and unit titles, releases, statuses and prerequisites",
+    "Local calendar, periods, dates and planned hours",
+    "Selected Task 5 option and available facilities/projects",
+    "Current controlled assessment instruments, evidence conditions and result destination",
+    "Task 7 page-1 versus pages-14–15 unit-code contradiction",
+    "Currency of every draft, dated, archive or controlled Staffroom file before use"
+  ],
+  "release_state": {
+    "local": true,
+    "committed": false,
+    "pushed": false,
+    "deployed": false,
+    "live_verified": false,
+    "public_hosting_approved": false
+  },
+  "release_note": "Acceptance applies only to this digest-bound local candidate. No push, deployment or original-site change was performed. Any later release requires Steve's explicit authorisation and an authenticated departmental destination."
+}

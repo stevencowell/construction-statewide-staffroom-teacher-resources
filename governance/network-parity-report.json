@@ -1,0 +1,34 @@
+{
+  "audit": "Construction teacher navigator network-parity acceptance",
+  "date": "2026-09-01",
+  "candidate_digest": "7d258f3840875ddd700c3f0b4353e479c3ab09208860e8a4d17421141f36bc3b",
+  "benchmark": "Main Page Subject Program Library at parent commit 798377c",
+  "decision": "PASS",
+  "checks": {
+    "category_banner_hierarchy": "PASS",
+    "pale_card_tints_and_accent_stripes": "PASS",
+    "visible_non_colour_category_labels": "PASS",
+    "four_task_groups_on_home": "PASS",
+    "four_task_groups_on_complete_program": "PASS",
+    "seven_library_resource_supercategories": "PASS",
+    "fifteen_original_library_purpose_subgroups_retained": "PASS",
+    "all_425_resource_cards_label_and_render": "PASS",
+    "all_nine_task_routes_render_without_overflow": "PASS",
+    "all_sixty_delivery_blocks_retained": "PASS",
+    "desktop_render": "PASS",
+    "exact_390_render": "PASS",
+    "exact_390_horizontal_overflow": false,
+    "long_filename_and_category_label_clipping": false,
+    "primary_link_target_minimum_px": 44,
+    "source_and_assessment_boundaries_unchanged": "PASS",
+    "original_student_site_untouched": "PASS"
+  },
+  "release_state": {
+    "local": true,
+    "committed": false,
+    "pushed": false,
+    "deployed": false,
+    "live_verified": false
+  },
+  "status": "ACCEPTED_LOCAL_CANDIDATE"
+}
