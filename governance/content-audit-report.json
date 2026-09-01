@@ -1,11 +1,11 @@
 {
   "audit": "Independent VET supplementary content, direct-resource and boundary audit",
-  "date": "2026-09-01",
-  "candidate_digest": "7d258f3840875ddd700c3f0b4353e479c3ab09208860e8a4d17421141f36bc3b",
+  "date": "2026-09-02",
+  "candidate_digest": "7de540a7a3af5aa7767ab337aa92c53affe686439ead6cfd3699c627a45be86f",
   "decision": "PASS",
   "remaining_findings": [],
   "checks": {
-    "teacher_only_and_staffroom_only_scope": "PASS",
+    "teacher_facing_and_staffroom_source_scope": "PASS",
     "425_unique_exact_file_paths": "PASS",
     "direct_url_syntax_and_session_safety": "PASS",
     "nine_task_routes": "PASS",
@@ -15,7 +15,8 @@
     "task_7_source_contradiction_retained": "PASS",
     "assessment_and_competency_boundary": "PASS",
     "no_built_quizzes_or_learner_evidence": "PASS",
-    "original_site_separation": "PASS",
+    "original_site_separation_with_one_way_teacher_link": "PASS",
+    "public_hosting_boundary_and_sign_in_requirement": "PASS",
     "archive_and_redundant_pointer_hidden_by_default": "PASS",
     "category_copy_does_not_add_course_or_assessment_facts": "PASS"
   },
@@ -24,6 +25,8 @@
     "Mapped named exact files into all 60 website and program delivery blocks.",
     "Kept original folders only as explicitly labelled secondary fallbacks.",
     "Added draft, dated, duplicate, archive and controlled-use cues without silently correcting source material.",
-    "Grouped cards with source-safe teaching-purpose and program-stage labels without changing links, task facts or RTO boundaries."
+    "Grouped cards with source-safe teaching-purpose and program-stage labels without changing links, task facts or RTO boundaries.",
+    "Replaced superseded local-only wording with an explicit public metadata-and-pointer boundary; controlled file contents remain in sign-in-protected SharePoint.",
+    "Authorised one landing-page Teacher Resources link while retaining separate routes, assets, storage and course identities."
   ]
 }

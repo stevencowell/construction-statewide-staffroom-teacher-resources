@@ -1,7 +1,7 @@
 {
   "audit": "Construction teacher navigator network-parity acceptance",
-  "date": "2026-09-01",
-  "candidate_digest": "7d258f3840875ddd700c3f0b4353e479c3ab09208860e8a4d17421141f36bc3b",
+  "date": "2026-09-02",
+  "candidate_digest": "7de540a7a3af5aa7767ab337aa92c53affe686439ead6cfd3699c627a45be86f",
   "benchmark": "Main Page Subject Program Library at parent commit 798377c",
   "decision": "PASS",
   "checks": {
@@ -20,15 +20,17 @@
     "exact_390_horizontal_overflow": false,
     "long_filename_and_category_label_clipping": false,
     "primary_link_target_minimum_px": 44,
-    "source_and_assessment_boundaries_unchanged": "PASS",
-    "original_student_site_untouched": "PASS"
+    "source_and_assessment_boundaries_updated_for_public_hosting": "PASS",
+    "original_student_site_remains_separate_with_one_way_teacher_link": "PASS"
   },
   "release_state": {
     "local": true,
     "committed": false,
     "pushed": false,
+    "public_repository": true,
+    "pages_authorised": true,
     "deployed": false,
     "live_verified": false
   },
-  "status": "ACCEPTED_LOCAL_CANDIDATE"
+  "status": "ACCEPTED_PUBLIC_RELEASE_CANDIDATE"
 }

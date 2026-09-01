@@ -1,10 +1,10 @@
 {
   "candidate": "Construction Statewide Staffroom Teacher Resources",
-  "version": "0.3.0-category-navigation-local-candidate",
-  "accepted_at": "2026-09-01",
-  "candidate_digest": "7d258f3840875ddd700c3f0b4353e479c3ab09208860e8a4d17421141f36bc3b",
-  "decision": "ACCEPTED_LOCAL_CANDIDATE",
-  "acceptance_scope": "Teacher-only exact-file website, complete aligned program and delivery ledger",
+  "version": "0.3.1-public-hosting-candidate",
+  "accepted_at": "2026-09-02",
+  "candidate_digest": "7de540a7a3af5aa7767ab337aa92c53affe686439ead6cfd3699c627a45be86f",
+  "decision": "ACCEPTED_PUBLIC_RELEASE_CANDIDATE",
+  "acceptance_scope": "Teacher-facing exact-file website, complete aligned program and delivery ledger",
   "gates": {
     "authorised_source_and_scope_map": "PASS",
     "separate_foundation": "PASS",
@@ -16,6 +16,8 @@
     "technical_and_accessibility": "PASS",
     "visual_and_responsive": "PASS",
     "network_category_and_banner_parity": "PASS",
+    "public_hosting_boundary": "PASS",
+    "one_way_teacher_resources_link_boundary": "PASS",
     "privacy_and_original_site_separation": "PASS",
     "document_render_and_hash_binding": "PASS"
   },
@@ -38,9 +40,11 @@
     "local": true,
     "committed": false,
     "pushed": false,
+    "public_repository": true,
+    "pages_authorised": true,
     "deployed": false,
     "live_verified": false,
-    "public_hosting_approved": false
+    "public_hosting_approved": true
   },
-  "release_note": "Acceptance applies only to this digest-bound local candidate. No push, deployment or original-site change was performed. Any later release requires Steve's explicit authorisation and an authenticated departmental destination."
+  "release_note": "Acceptance applies to this digest-bound public-release candidate. Steve explicitly authorised public GitHub Pages and a one-way Teacher Resources link from the original landing page. Staffroom filenames and pointers are public; controlled file contents remain excluded and sign-in protected. Deployment and rendered-live verification remain separate release gates."
 }

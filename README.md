@@ -1,6 +1,6 @@
 # Construction Statewide Staffroom Teacher Resources
 
-This is a separate, teacher-only local candidate built from the authenticated **VET statewide staffroom > Construction > Shared > Resource Library** as inspected on 1 September 2026.
+This is a separate, teacher-facing resource navigator built from the authenticated **VET statewide staffroom > Construction > Shared > Resource Library** as inspected on 1 September 2026.
 
 Open `index.html` to use the site. Staffroom resource links require a departmental Microsoft 365 sign-in.
 
@@ -18,7 +18,8 @@ Open `index.html` to use the site. Staffroom resource links require a department
 - This is a supplementary planning and resource-navigation layer, not an RTO assessment system, assessor guide, evidence store or competency record.
 - Controlled files remain in SharePoint and are not republished here.
 - Dates, local periods, selected options, current releases, assessment events and unresolved source conflicts remain **Teacher/RTO to confirm**.
-- The original student/evidence-facing Construction supplementary site was not edited, copied into or connected to this build.
-- If this candidate is later published, use an authenticated departmental location rather than a public GitHub Pages site.
+- The original student/evidence-facing Construction supplementary site remains a separate build. Its landing page may link here, but no routes, assets, storage or course content are shared.
+- This public site contains Staffroom filenames, folder paths and stable authenticated pointers only. The controlled files themselves remain in SharePoint and require departmental sign-in.
+- Do not add assessor answers, learner evidence, private rubrics, personal information or session-bound links to this public repository.
 
-Current state: local only; not committed, pushed, deployed or live-verified.
+GitHub Pages address: **https://stevencowell.github.io/construction-statewide-staffroom-teacher-resources/**

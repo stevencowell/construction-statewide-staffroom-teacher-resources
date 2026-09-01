@@ -1,6 +1,6 @@
 {
   "candidate": "Construction Statewide Staffroom Teacher Resources",
-  "version": "0.2.0-direct-resource-local-candidate",
+  "version": "0.3.1-public-hosting-candidate",
   "mapped_at": "2026-09-01",
   "authority": {
     "permitted_source": "Authenticated VET statewide staffroom > Construction > Shared > Resource Library",
@@ -19,7 +19,7 @@
   },
   "separation": {
     "protected_original": "https://stevencowell.github.io/Construction-Supplementary-material/",
-    "rule": "Do not edit, copy into, route through, share storage with or deploy over the original student/evidence-facing site.",
+    "rule": "Keep the builds separate. A one-way Teacher Resources link from the original landing page is authorised; do not copy content, import routes, share storage or deploy over the original student/evidence-facing site.",
     "new_candidate_path": "outputs/construction-statewide-staffroom-teacher-resources",
     "storage": "No localStorage, IndexedDB, service worker or learner evidence state"
   },
@@ -53,6 +53,8 @@
     "local": true,
     "committed": false,
     "pushed": false,
+    "public_repository": true,
+    "pages_authorised": true,
     "deployed": false,
     "live_verified": false
   }

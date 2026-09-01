@@ -1,7 +1,8 @@
 Construction Statewide Staffroom Teacher Resources
-Core candidate SHA-256: 7d258f3840875ddd700c3f0b4353e479c3ab09208860e8a4d17421141f36bc3b
-Frozen: 1 September 2026
+Core candidate SHA-256: 7de540a7a3af5aa7767ab337aa92c53affe686439ead6cfd3699c627a45be86f
+Frozen: 2 September 2026
 Digest scope: 20 core site, direct-resource, program, source and route files present before final audit-report generation.
+Method: for each scoped file, calculate its SHA-256; sort relative paths case-insensitively; write `relative-path<TAB>file-sha256` lines; join with LF; calculate SHA-256 of the resulting UTF-8 text.
 Excluded from the digest to avoid recursive hashing: candidate-digest.txt and the final foundation, integration, content, visual, network-gap, network-parity and acceptance reports.
 
-This digest identifies the exact local category-navigation and direct-resource candidate accepted by the reports in this governance folder. It is not a release or deployment identifier.
+This digest identifies the exact public-hosting, category-navigation and direct-resource candidate accepted by the reports in this governance folder. It is not a deployment or live-verification identifier.

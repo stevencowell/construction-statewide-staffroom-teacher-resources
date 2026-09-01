@@ -6,7 +6,7 @@ window.CONSTRUCTION_DATA = {
     "sourceAsAt": "1 September 2026",
     "sourceLocation": "VET statewide staffroom > Construction > Shared > Resource Library",
     "boundary": "Supplementary teacher planning and resource navigation only. This site is not an RTO assessment system, assessor guide, evidence store or competency record.",
-    "hosting": "Local candidate. If published, use an authenticated departmental location only.",
+    "hosting": "Public teacher-facing navigator. Staffroom filenames and pointers are public; controlled files remain sign-in protected in SharePoint.",
     "staffroomRoot": "/sites/VETstatewidestaffroom/Shared Documents/Construction/Resource Library"
   },
   "tasks": [

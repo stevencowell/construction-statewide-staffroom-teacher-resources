@@ -1,7 +1,7 @@
 {
   "candidate": "Construction Statewide Staffroom Teacher Resources",
-  "version": "0.3.0-category-navigation-local-candidate",
-  "candidate_digest": "7d258f3840875ddd700c3f0b4353e479c3ab09208860e8a4d17421141f36bc3b",
+  "version": "0.3.1-public-hosting-candidate",
+  "candidate_digest": "7de540a7a3af5aa7767ab337aa92c53affe686439ead6cfd3699c627a45be86f",
   "integrated_outputs": {
     "website": [
       "index.html",
@@ -50,7 +50,8 @@
   "separation": {
     "original_site_routes_or_assets_imported": false,
     "shared_storage_namespaces": false,
-    "release_destination": null
+    "one_way_teacher_resources_link_authorised": true,
+    "release_destination": "https://stevencowell.github.io/construction-statewide-staffroom-teacher-resources/"
   },
   "status": "PASS"
 }
